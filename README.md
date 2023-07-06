@@ -26,3 +26,9 @@ Welcome to the Movie Recommendation App! This application provides movie recomme
 - Open your web browser and visit: `http://localhost:3000`
 - Explore the recommended movies, like your favorites, and add comments
 
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Fetch API
