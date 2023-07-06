@@ -42,3 +42,17 @@ This application integrates with the following API to fetch movie details:
 To use the API, you will need to sign up and obtain an API key. Replace `'YOUR_API_KEY'` in the code with your actual API key.
 
 ## Screenshots
+
+### User Interaction
+
+![User Interaction](images/user-interaction.jpg)
+
+## Contributing
+
+If you would like to contribute to the Movie Recommendation App, please follow these steps:
+
+1. Fork the repository
+2. Create a new branch: `git checkout -b feature/my-feature`
+3. Make your changes and commit them: `git commit -m 'Add new feature'`
+4. Push to the branch: `git push origin feature/my-feature`
+5. Submit a pull request
