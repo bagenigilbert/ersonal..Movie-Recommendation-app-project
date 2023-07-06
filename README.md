@@ -20,3 +20,9 @@ Welcome to the Movie Recommendation App! This application provides movie recomme
 2. Navigate to the project directory: `cd movie-recommendation-app`
 3. Install the required dependencies: `npm install`
 
+## Usage
+
+- Run the application: `npm start`
+- Open your web browser and visit: `http://localhost:3000`
+- Explore the recommended movies, like your favorites, and add comments
+
