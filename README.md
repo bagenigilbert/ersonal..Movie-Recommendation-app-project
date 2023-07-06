@@ -13,3 +13,10 @@ Welcome to the Movie Recommendation App! This application provides movie recomme
 - Provides detailed information about each movie, including title and image
 
 ![Movie Recommendation](images/movie-recommendation.jpg)
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/gilbertbageni/movie-recommendation-app.git`
+2. Navigate to the project directory: `cd movie-recommendation-app`
+3. Install the required dependencies: `npm install`
+
