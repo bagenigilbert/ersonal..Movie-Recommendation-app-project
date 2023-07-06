@@ -1,4 +1,4 @@
-# ersonal..Movie-Recommendation-app-project
+# personal..Movie-Recommendation-app-project
 
 # Movie Recommendation App
 
