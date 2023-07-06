@@ -63,3 +63,8 @@ Name: Gilbert Bageni
 Email: gilbertwilber0@gmail.com
 
 Feel free to reach out with any questions or suggestions!
+
+
+## License
+
+This project is licensed under the MIT License.
