@@ -40,3 +40,5 @@ This application integrates with the following API to fetch movie details:
 - Utelly TV Shows and Movies Availability API
 
 To use the API, you will need to sign up and obtain an API key. Replace `'YOUR_API_KEY'` in the code with your actual API key.
+
+## Screenshots
