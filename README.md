@@ -59,7 +59,8 @@ If you would like to contribute to the Movie Recommendation App, please follow t
 
 ## Author
 
-Name: Gilbert Bageni
+Name: Gilbert Bageni.
+
 Email: gilbertwilber0@gmail.com
 
 Feel free to reach out with any questions or suggestions!
