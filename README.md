@@ -56,3 +56,10 @@ If you would like to contribute to the Movie Recommendation App, please follow t
 3. Make your changes and commit them: `git commit -m 'Add new feature'`
 4. Push to the branch: `git push origin feature/my-feature`
 5. Submit a pull request
+
+## Author
+
+Name: Gilbert Bageni
+Email: gilbertwilber0@gmail.com
+
+Feel free to reach out with any questions or suggestions!
