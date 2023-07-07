@@ -69,3 +69,7 @@ Feel free to reach out with any questions or suggestions!
 ## License
 
 This project is licensed under the MIT License.
+
+## deployment link
+https://gilbert2003-beep.github.io/ersonal..Movie-Recommendation-app-project/ 
+
